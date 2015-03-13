@@ -1,33 +1,14 @@
 # Exercice6-TP1-(Non-terminé)
 #Author:DominiqueLoyer
 
-Libellé:
+Libellé du TP1:
+https://docs.google.com/document/d/1eja9JwkkEXUzRD1FBileLugmodmXwMGx4W8CtqNMxgU/edit
 
-https://docs.google.com/document/d/1nOajve9JRBZI_WlD8ZvuMbMfYgNOs9Mf2faY19b_BDI/edit
+On Dart Web Projects - Exercise 6
 
-On Dart Web Programming - Exercise 6
+Create a single page Web application with HTML5, CSS and Dart (without Polymer) to manage contacts (names, emails and phones). For a model you may use dartlero or create the model from scratch. Start with a list (or a table) of existing contacts that a user may update or remove. Create a form to add a new contact. Validate new data. Use a local storage to save the contacts. 
 
-Use two Dart files, one to define all functions, the other to prepare function arguments and use the main function. The print function may be used only in the prepare functions. Follow Dart Style Guide.
-
-1.
-
-Determine if a given string is a palindrome.
-
-2.
-
-Calculate the number of days between two dates.
-
-3.
-
-Convert number grades to letter grades by using a standard.
-
-4.
-
-Given a list of names, make a list of three lists, first with names shorter than 8 letters, second with names longer than 8 letters, and third with names that are 8 letters long.
-
-5.
-
-Prepare two lists, one with the names of players and their clubs, and the other with the names of clubs. Make the third list with clubs ordered by their names, where each club is followed by its list of players.
-
+Consult ex04, ex05, ex06, ex07, ex08, ex09, ex10, ex11, ex12:
+https://github.com/dzenanr/ondart_examples/tree/master/ondart_dom/dom0
 
 
