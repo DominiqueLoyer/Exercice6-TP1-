@@ -1,0 +1,8 @@
+name: exercice6_Tp1_DominiqueLoyer
+version: 0.0.1
+author: Dominique Loyer
+description: An absolute bare-bones web app.
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+dependencies:
+  browser: any
