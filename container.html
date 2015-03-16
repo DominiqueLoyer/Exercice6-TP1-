@@ -1,1 +1,40 @@
 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link type="text/css" rel="stylesheet" href="resources/sheet.css" >
+<style type="text/css">.ritz .waffle .s0{text-align:left;color:#000000;background-color:#ffffff;font-size:10pt;vertical-align:bottom;white-space:nowrap;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s1{border-right: none;text-align:left;color:#000000;background-color:#ffffff;font-size:10pt;vertical-align:bottom;white-space:nowrap;direction:ltr;padding:2px 3px 2px 3px;}</style><div class="ritz grid-container" dir="ltr"><table class="waffle" cellspacing="0" cellpadding="0"><thead><tr><th class="row-header freezebar-vertical-handle"></th><th id="1122673814C0" style="width:150px" class="column-headers-background">A</th><th id="1122673814C1" style="width:150px" class="column-headers-background">B</th><th id="1122673814C2" style="width:150px" class="column-headers-background">C</th><th id="1122673814C3" style="width:150px" class="column-headers-background">D</th><th id="1122673814C4" style="width:150px" class="column-headers-background">E</th></tr></thead><tbody><tr style='height:21px;'><th id="1122673814R0" style="height: 21px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 21px;">1</div></th><td class="s0">Timestamp</td><td class="s0 softmerge"><div class="softmerge-inner" style="width: 147px; left: -1px;">Entrez votre Nom de famille</div></td><td class="s0">Entrez votre Prénom</td><td class="s0">Entrez votre courriel</td><td class="s1 softmerge"><div class="softmerge-inner" style="width: 248px; left: -1px;">Entrez votre numéro de téléphone</div></td></tr><tr><th style="height:4px" class="freezebar-cell freezebar-horizontal-handle"></th><td class="freezebar-cell"></td><td class="freezebar-cell"></td><td class="freezebar-cell"></td><td class="freezebar-cell"></td><td class="freezebar-cell"></td></tr></tbody></table></div>
+<script type='text/javascript'>
+function posObj(sheet, id, row, col, x, y) {
+  var rtl = false;
+  var sheetElement = document.getElementById(sheet);
+  if (!sheetElement) {
+    sheetElement = document.getElementById(sheet + '-grid-container');
+  }
+  if (sheetElement) {
+    rtl = sheetElement.getAttribute('dir') == 'rtl';
+  }
+  var r = document.getElementById(sheet+'R'+row);
+  var c = document.getElementById(sheet+'C'+col);
+  if (r && c) {
+    var objElement = document.getElementById(id);
+    var s = objElement.style;
+    var t = y;
+    while (r) {
+      t += r.offsetTop;
+      r = r.offsetParent;
+    }
+    var offsetX = x;
+    while (c) {
+      offsetX += c.offsetLeft;
+      c = c.offsetParent;
+    }
+    if (rtl) {
+      offsetX -= objElement.offsetWidth;
+    }
+    s.left = offsetX + 'px';
+    s.top = t + 'px';
+    s.display = 'block';
+    s.border = '1px solid #000000';
+  }
+};
+function posObjs() {
+};
+posObjs();</script>
