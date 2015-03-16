@@ -4,6 +4,11 @@
 #Ma méthode post ne fonctionne pas. Je tente de l'arranger pour alimenter le container. DominiqueLoyer
 <a href="http://nimga.fr/v/bxlOi" target="_blank"><img src="http://nimga.fr/m/bxlOi.png" alt="Selection_773.png" title="nimga.fr - Héberger images" border="0" /></a>
 
+Le lien du container:
+http://goo.gl/nDDf7V
+
+
+
 
 Libellé du TP1:
 https://docs.google.com/document/d/1eja9JwkkEXUzRD1FBileLugmodmXwMGx4W8CtqNMxgU/edit
