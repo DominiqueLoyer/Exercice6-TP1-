@@ -2,7 +2,7 @@
 #Author:DominiqueLoyer
 
 #Ma méthode post ne fonctionne pas. Je tente de l'arranger pour alimenter le container. DominiqueLoyer
-
+[URL=http://nimga.fr/v/bxlOi][IMG]http://nimga.fr/m/bxlOi.png[/IMG][/URL]
 
 
 Libellé du TP1:
