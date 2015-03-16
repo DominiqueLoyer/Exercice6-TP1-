@@ -1,6 +1,10 @@
 # Exercice6-TP1-(Non-terminé)
 #Author:DominiqueLoyer
 
+#Ma méthode post ne fonctionne pas. Je tente de l'arranger pour alimenter le container. DominiqueLoyer
+
+
+
 Libellé du TP1:
 https://docs.google.com/document/d/1eja9JwkkEXUzRD1FBileLugmodmXwMGx4W8CtqNMxgU/edit
 
