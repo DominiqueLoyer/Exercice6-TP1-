@@ -11,5 +11,5 @@ Formulaire.html --> formulaire.html
 
 HTTP method POST is not supported by this URL
 
-#ⓄⓀ✔
-##Je vais corriger ça. Merci. DL
+ⓄⓀ✔
+Je vais corriger ça. Merci. DL
