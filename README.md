@@ -1,7 +1,7 @@
-# Exercice6-TP1-(Non-terminé)
-#Author:DominiqueLoyer
+# Exercice6-TP1-
+##Author:DominiqueLoyer-->
 
-#Ma méthode post ne fonctionne pas. Je tente de l'arranger pour alimenter le container. DominiqueLoyer
+###Ma méthode post ne fonctionne pas. Je tente de l'arranger pour alimenter le container. Sinon, je vais essayer avec la méthode get (en passant l'url dans le fureteur)DominiqueLoyer
 
 
 ##Le Formulaire:
