@@ -2,6 +2,8 @@ ex06
 
 ?/20
 
+.gitignore est vide
+
 vous devez utiliser les dossiers lib et web
 
 voir https://www.dartlang.org/articles/style-guide/
