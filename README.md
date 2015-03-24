@@ -1,7 +1,10 @@
 # Exercice6-TP1-
 ##Author:DominiqueLoyer-->
 
-###Ma méthode post ne fonctionne pas. Je tente de l'arranger pour alimenter le container. Sinon, je vais essayer avec la méthode get (en passant l'url dans le fureteur)DominiqueLoyer
+##Je vais apporter les corrections selon le Dartlang Guide comme vous me le recommendé. 
+
+
+Ma méthode post ne fonctionne pas. Je tente de l'arranger pour alimenter le container. Sinon, je vais essayer avec la méthode get (en passant l'url dans le fureteur)DominiqueLoyer
 
 
 ##Le Formulaire:
